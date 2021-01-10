@@ -1,0 +1,11 @@
+{
+  "z" : 0,
+  "a" : 1,
+  "b" : true,
+  "c.d" : 3,
+  "c.e" : "test",
+  "c.f" : null,
+  "g.h" : 4,
+  "g.i" : false,
+  "j" : "end"
+}

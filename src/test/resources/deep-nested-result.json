@@ -1,0 +1,14 @@
+{
+  "a" : 1,
+  "b" : true,
+  "c.d" : 2,
+  "c.e" : "text1",
+  "c.f.g" : 3,
+  "c.f.h.i" : null,
+  "c.f.h.j" : false,
+  "c.f.h.k" : true,
+  "c.f.h.l.m" : 4,
+  "c.f.h.l.n" : "text2",
+  "c.f.o" : null,
+  "p" : 5
+}
